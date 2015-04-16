@@ -1,5 +1,5 @@
 <?php
-$mysqli = new mysqli('localhost', 'root', 'root', 'tasks');
+$mysqli = new mysqli('localhost', 'root', 'root', 'todo');
 
 if ($mysqli->connect_error) {
 	die("Connection Error(" . $mysqli->connect_errno . ')'
