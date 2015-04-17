@@ -13,7 +13,7 @@
 		</div>
 	<form class="add-new-task" autocomplete="off">
 	 <input type="text" name="new-task" placeholder="Add new item..."/>
-	 </form>
+	   </form>
 	 </div>
 </body>
 </html>
